@@ -6,6 +6,6 @@
 		"moduleResolution": "node",
 		"jsx": "react",
 		"target": "es2019",
-		"module": "es2020"
+		"module": "esnext"
 	}
 }
